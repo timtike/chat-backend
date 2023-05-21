@@ -1,0 +1,6 @@
+openai
+PyJWT
+flask
+boto3
+flask_cors
+requests
