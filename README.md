@@ -3,6 +3,7 @@
 ### How to deploy
 
 1.add your key
+
 2.install requirements
 python3 -m pip install -r requirements.txt
 
